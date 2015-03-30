@@ -1,0 +1,29 @@
+#block-elements{
+	width: 600px;
+border: 1px solid blue;
+}
+
+
+h1{
+	width: 450px;
+	border: 1px solid red;
+}
+
+h2{
+	border: 1px solid green;
+}
+span {
+	border:1px solid purple;
+}
+img{
+	width: 100px;
+	height: 100px;
+}
+.yellow{
+	background: yellow;
+	width: 200px
+}
+.example{
+	display: inline-block;
+	width: 30%;
+}
